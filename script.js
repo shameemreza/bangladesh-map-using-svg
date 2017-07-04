@@ -1,5 +1,5 @@
-// author: Shameem Reza
-// url: https://shameem.me
+// Author: Shameem Reza
+// URL: https://shameem.me
 
 $ = new jQuery.noConflict();
 $(document).ready(function(){
