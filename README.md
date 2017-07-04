@@ -1,5 +1,7 @@
 # Bangladesh Map
 
-Bangladesh Map with sample CSS and JS added using SVG. This is just for practicing. You can fork and use it in anywhere.
+Bangladesh Map with sample CSS and JS added using SVG. This is just for practicing.
 
-## Details: https://shameem.me/bangladesh-map-using-svg
+* Details: https://shameem.me/bangladesh-map-using-svg
+
+You can fork and use it in anywhere.
